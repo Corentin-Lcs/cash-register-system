@@ -44,7 +44,7 @@ The `main.py` file contains the following line :
 connector = mysql.connector.connect(host="localhost", user="root")
 ```
 
-It represents the program's connection to the MySQL database server running on localhost, used in conjunction with the phpMyAdmin web management application. The user is named `root` and has no password. If you have a session with a different username and password, here is the modification to make :
+It represents the program's connection to the MySQL database server running on localhost, used in conjunction with the phpMyAdmin web management application. The user is named "root" and has no password. If you have a session with a different username and password, here is the modification to make :
 
 ```py
 connector = mysql.connector.connect(host="localhost", user="username_here", password="password_here")
