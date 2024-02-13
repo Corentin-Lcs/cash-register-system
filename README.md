@@ -1,6 +1,5 @@
 <h1 align="center">Cash Register System</h1>
 
-
 The "Cash Register System" GitHub project is a simplified replica of a store's cash register system using a phpMyAdmin database. The program automatically manages the creation and operations between the information entered by the user and the database.
 
 <p align="center">
